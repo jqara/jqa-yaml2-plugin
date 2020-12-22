@@ -31,8 +31,8 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:jqassistant/jqa-yaml2-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jqassistant/jqa-yaml2-plugin.git</developerConnection>
+        <connection>scm:git:git@github.com:jqara/jqa-yaml2-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:jqara/jqa-yaml2-plugin.git</developerConnection>
         <url>https://github.com/jqassistant/jqa-yaml2-plugin</url>
       <tag>HEAD</tag>
   </scm>
